@@ -3,7 +3,7 @@ export default {
   title: 'EventCatalog',
   tagline: 'Discover, Explore and Document your Event Driven Architectures',
   organizationName: 'Your Company',
-  homepageLink: 'https://eventcatalog.dev/',
+  homepageLink: 'https://ramesh-dharmalingam.github.io/eventcatalog/',
   editUrl: 'https://github.com/boyney123/eventcatalog-demo/edit/master',
   // By default set to false, add true to get urls ending in /
   trailingSlash: false,
