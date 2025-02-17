@@ -4,7 +4,7 @@ export default {
   tagline: 'Discover, Explore and Document your Event Driven Architectures',
   organizationName: 'Your Company',
   homepageLink: 'https://ramesh-dharmalingam.github.io/eventcatalog/',
-  editUrl: 'https://github.com/boyney123/eventcatalog-demo/edit/master',
+  editUrl: 'https://github.com/ramesh-dharmalingam/eventcatalog/edit/main',
   // By default set to false, add true to get urls ending in /
   trailingSlash: false,
   // Change to make the base url of the site different, by default https://{website}.com/docs,
